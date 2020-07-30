@@ -1,5 +1,4 @@
 module.exports = {
   outputDir: 'docs',
-  assetsDir: './',
-  publicPath: './'
+  publicPath: '/training_vue/'
 }
