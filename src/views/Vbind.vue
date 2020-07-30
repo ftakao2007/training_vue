@@ -1,5 +1,6 @@
 <template>
   <div class="vbind">
+    <h3>クラスとスタイルのバインディング</h3>
     <button v-on:click="raiseError">エラー</button>
     <div v-bind:class="{ 'text-danger': hasError }">
       システムからのメッセージ
@@ -26,7 +27,7 @@ export default Vue.extend({
 
 <style scoped>
 .vbind {
-  text-align: left;
+  text-align: center;
 }
 .text-danger {
   color: darkred;

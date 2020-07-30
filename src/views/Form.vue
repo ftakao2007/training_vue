@@ -76,7 +76,7 @@ export default Vue.extend({
 
 <style scoped>
   .form {
-    text-align: left;
+  text-align: center;
   }
   .el-form {
     width: 100%;

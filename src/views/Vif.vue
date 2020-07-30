@@ -27,6 +27,6 @@ export default Vue.extend({
 
 <style scoped>
 .vif {
-  text-align: left;
+  text-align: center;
 }
 </style>

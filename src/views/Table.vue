@@ -50,6 +50,6 @@ export default Vue.extend({
 
 <style scoped>
   .table {
-    text-align: left;
+  text-align: center;
   }
 </style>

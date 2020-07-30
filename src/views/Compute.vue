@@ -30,6 +30,6 @@ export default Vue.extend({
 
 <style scoped>
 .compute {
-  text-align: left;
+  text-align: center;
 }
 </style>

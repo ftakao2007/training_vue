@@ -1,6 +1,6 @@
 <template>
   <div class="list">
-    <h3>リストレンダリング</h3>
+  <h3>リストレンダリング</h3>
     <ul id="item-list">
       <li v-for="item in items" :key="item.id">
         {{item.name}}

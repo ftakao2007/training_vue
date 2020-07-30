@@ -24,6 +24,6 @@ export default Vue.extend({
 
 <style scoped>
 .event {
-  text-align: left;
+  text-align: center;
 }
 </style>
